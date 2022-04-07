@@ -1,0 +1,47 @@
+body{
+    background-color:darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.common{
+    background-color: #cccccc;
+    border: solid 2px white;
+    opacity: 80%;
+    position: absolute;
+}
+
+.header{
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+}
+
+.leftmenu{
+    top: 114px;
+    left: 5px;
+    width:100px;
+    bottom: 64px;
+}
+
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px;
+    right: 114px;
+}
+
+.rightmenu{
+    top: 114px;
+    right: 5px;
+    width:100px;
+    bottom: 64px;
+}
+
+.footer{
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px;
+    position: fixed;
+}

@@ -1,0 +1,45 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+    background-color:lightgray;
+}
+li{color:darkmagenta;
+font-family:cursive;
+}
+ol{color:green;
+}
+.favecolor{
+    color:rgb(rgb(172, 21, 21), green, blue);
+   
+}
+a.hover{
+    color:red;
+}
+.homeBG{background-image: url(../Images/Background.jpg);
+        background-size:cover;
+}
+
+.box1{
+    border-width: 3px;
+    border-style:double;
+    border-color: blue;
+}
+.box2{
+    padding:10px;
+
+}
+.box3{
+    margin:20px;
+}
+.box4{
+    padding-left:40px;
+    margin: 100px;
+    padding-right: 40px;
+    border-right: yellow dashed;
+    border-width: 10px;
+}
+
+
+
+/*
+For home page
+/*

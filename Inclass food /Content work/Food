@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+
+
+<html>
+    <head>
+        <title>Parker's Fav Restaurant</title>
+
+    </head>
+
+    <Body>
+        <h1>I love food</h1>
+        <img src="https://www.gannett-cdn.com/presto/2022/01/02/PDTF/223b571e-5713-48f9-b11d-50268ee85801-PEP_UPGRD_PULL_2.jpg?width=1320&height=896&fit=crop&format=pjpg&auto=webp" width="300px"alt="Pizza" title="The Best">
+        <P>Below you will find my favorite places to eat</P>
+        <br>
+        <P>I like trying new places in the Provo area</P>
+        <P>The following are them</P>
+
+        
+        <ol>
+            <li>Little Caesars</li>
+                <ul>
+                    <li>Pep</li>
+                    <li>Cheese</li>
+                </ul>
+            <li>In n Out</li>
+                <ul>
+                    <li>Burger</li>
+                    <li>Fries</li>
+                </ul>
+            <li>Betos</li>
+                <ul>
+                    <li>Burrito</li>
+                    <Li>Tacos</Li>
+                </ul>
+        </ol>
+    </Body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
